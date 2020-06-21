@@ -1,0 +1,5 @@
+npm install -g create-react-app 
+
+create-react-app hunt-web
+
+npm start
