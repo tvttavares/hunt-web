@@ -1,14 +1,22 @@
+-- instalação global do react
 npm install -g create-react-app 
 
+-- criação do projeto
 create-react-app hunt-web
 
+-- inicilização da aplicação
 npm start 
 
+-- build da aplicação
+npm build
 
--- API hospedada no heroku
+-- API hospedada no heroku (projeto da RocketSeat)
 {
  "base_url": "https://rocketseat-node.herokuapp.com/api"   
 }
 
 -- utilizado para acessar dados de uma api rest
 yarn add axios
+
+-- utilizado para configuração de navegação
+yarn add react-router-dom
