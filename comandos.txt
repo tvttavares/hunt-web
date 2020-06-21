@@ -2,4 +2,10 @@ npm install -g create-react-app
 
 create-react-app hunt-web
 
-npm start
+npm start 
+
+
+-- API hospedada no heroku
+{
+ "base_url": "https://rocketseat-node.heroku.com/api"   
+}
